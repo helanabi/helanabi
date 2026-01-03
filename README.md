@@ -4,6 +4,6 @@
   - [file-organizer](https://github.com/helanabi/file-organizer): organizes files into respective folders
 * **Learning**: 
   - [CS61A](https://github.com/helanabi/cs61a) for theoritical computer science
-  - [Exercism](https://github.com/exercism-python) for programming practice
+  - [Exercism](https://github.com/helanabi/exercism-python) for programming practice
 * **Workflow**:
-  - [gnu-linux-rice](https://github.com/gnu-linux-rice): my Archlinux-based config wizard for i3-wm, GNU Emacs and more
+  - [gnu-linux-rice](https://github.com/helanabi/gnu-linux-rice): my Archlinux-based config wizard for i3-wm, GNU Emacs and more
