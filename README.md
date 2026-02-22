@@ -1,5 +1,5 @@
 * **Automation**:
-  - [wuqut](https://github.com/helanabi/wuqut): A tool to extracts prayer times from the Moroccan Ministry of Habous website 
+  - [wuqut](https://github.com/helanabi/wuqut): A tool to extract prayer times from the Moroccan Ministry of Habous website 
   - [terminal-weather](https://github.com/helanabi/terminal-weather): weather and forecasting program for the terminal
   - [owmlib](https://github.com/helanabi/owmlib): OpenWeatherMap APIs wrapper library
   - [file-organizer](https://github.com/helanabi/file-organizer): file organizer utility
