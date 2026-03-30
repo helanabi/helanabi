@@ -1,4 +1,5 @@
 * **Automation**:
+  - [colcat](https://github.com/helanabi/colcat): A tool that combines messy Excel/CSV files into a clean, unified sheet
   - [formbot](https://github.com/helanabi/formbot): Web forms autofiller bot
   - [invoice-generator](https://github.com/helanabi/invoice-generator): A GUI application for generating invoice PDFs from CSV data
   - [wuqut](https://github.com/helanabi/wuqut): A tool to extract prayer times from the Moroccan Ministry of Habous website 
