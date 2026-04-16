@@ -5,6 +5,7 @@
   - [wuqut](https://github.com/helanabi/wuqut): A tool to extract prayer times from the Moroccan Ministry of Habous website 
   - [terminal-weather](https://github.com/helanabi/terminal-weather): weather and forecasting program for the terminal
   - [owmlib](https://github.com/helanabi/owmlib): OpenWeatherMap APIs wrapper library
+  - [exile](https://github.com/helanabi/exile): A CLI tool that delays access to a secret to enforce self-discipline
   - [file-organizer](https://github.com/helanabi/file-organizer): file organizer utility
 * **Learning**: 
   - [CS61A](https://github.com/helanabi/cs61a): Intro computer science review
