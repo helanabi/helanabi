@@ -7,7 +7,9 @@
   - [owmlib](https://github.com/helanabi/owmlib): OpenWeatherMap APIs wrapper library
   - [exile](https://github.com/helanabi/exile): A CLI tool that delays access to a secret to enforce self-discipline
   - [file-organizer](https://github.com/helanabi/file-organizer): file organizer utility
-* **Learning**: 
-  - [CS61A](https://github.com/helanabi/cs61a): Intro computer science review
+
+* **Contributions**:
+  - [Exercism Python Track](https://github.com/exercism/python/pull/4073): Contributed improvements to Python learning material for technical accuracy and clarity
+  
 * **Workflow**:
   - [gnu-linux-rice](https://github.com/helanabi/gnu-linux-rice): my Archlinux-based config wizard for i3-wm, GNU Emacs and more
