@@ -1,3 +1,8 @@
+* **Freelance**
+  - [Hire me on Upwork](https://www.upwork.com/freelancers/~0166c12b9f7ff8a1ff)
+  - [Place an order on Fiverr](https://www.fiverr.com/s/EgwB410)
+  - [Hire me on Freelancer](https://www.freelancer.com/u/abulkeram?frm=abulkeram&sb=t)
+
 * **Automation**:
   - [colcat](https://github.com/helanabi/colcat): A tool that combines messy Excel/CSV files into a clean, unified sheet
   - [formbot](https://github.com/helanabi/formbot): Web forms autofiller bot
