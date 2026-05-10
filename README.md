@@ -11,6 +11,7 @@
   - [terminal-weather](https://github.com/helanabi/terminal-weather): weather and forecasting program for the terminal
   - [owmlib](https://github.com/helanabi/owmlib): OpenWeatherMap APIs wrapper library
   - [exile](https://github.com/helanabi/exile): A CLI tool that delays access to a secret to enforce self-discipline
+  - [i3cat](https://github.com/helanabi/i3cat): A CLI utility for adding entries to an i3bar status line 
   - [file-organizer](https://github.com/helanabi/file-organizer): file organizer utility
 
 * **Contributions**:
