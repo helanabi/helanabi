@@ -1,6 +1,3 @@
-* **Freelance**
-  - [Hire me on Upwork](https://www.upwork.com/freelancers/~0166c12b9f7ff8a1ff)
-
 * **Automation**:
   - [colcat](https://github.com/helanabi/colcat): A tool that combines messy Excel/CSV files into a clean, unified sheet
   - [formbot](https://github.com/helanabi/formbot): Web forms autofiller bot
